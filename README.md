@@ -1,2 +1,2 @@
-# practica-an-lisis-de-datos-cl-nicos
+# Práctica final para la asignatura de Análisis de Datos Clínicos
 De: Víctor Sánchez Auñón
