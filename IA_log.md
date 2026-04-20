@@ -32,6 +32,11 @@
 # ChatGPT
 # me ha salido el siguiente error con la funcion de los diagnosticos {captura del código y el error}
 # Me ayudó a debuggear ya que hice un for donde cambiaba datos de esta forma datos["diag_1"][i] = seleccionarDiagnostico(datos["diag_1"][i]) y me dijo q mejor usar .apply(funcion)
+#
+# 20/04/26-1
+# ChatGPT
+# esta variable habría q eliminarla no? {captura de value_counts()}
+# Quería asegurarme si una variable poco representada habría que quitarla, además aprendí que si dentro de value_count() pones normalized="True" te devuelve la representación en porcentaje.
 
 
 
