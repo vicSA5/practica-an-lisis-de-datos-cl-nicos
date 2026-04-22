@@ -37,6 +37,11 @@
 # ChatGPT
 # esta variable habría q eliminarla no? {captura de value_counts()}
 # Quería asegurarme si una variable poco representada habría que quitarla, además aprendí que si dentro de value_count() pones normalized="True" te devuelve la representación en porcentaje.
+#
+# 22/04/26-1
+# Gemini
+# es correcto este dataframe antes de pasar al EDA? {captura}
+# Para ver si era correcto lo q llevaba. Me dijo que por si acaso, para que entienda mejor el modelo, convierta las variables booleanas del one-hot encoding a int.
 
 
 
