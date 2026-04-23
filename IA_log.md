@@ -45,8 +45,18 @@
 #
 # 23/04/26-1
 # Gemini
-# puedo usar este modelo para mi dataset? {captura del notebook de clse de LinearRegression}
+# puedo usar este modelo para mi dataset? {captura del notebook de clase de LinearRegression}
 # Validar si se podía usar lo mismo que vimos en clase, me ayudó a ajustar parámetros.
+#
+# 23/04/26-2
+# Gemini
+# puedo aplicar vecinos-k como aquí? {captura del notebook de la segunda clase}
+# Validar si se podía usar lo mismo que vimos en clase, me ayudó a ajustar parámetros y que no tarde tanto en ejecutarse usando un parámetro para usar todos los núcleos del ordenador.
+#
+# 23/04/26-3
+# DeepSeek
+# no me va pip install imblearn
+# Me ayudó a arreglar que al instalarme imblearn con pip seguía dando error dandome un ejecutable en una celda.
 
 
 

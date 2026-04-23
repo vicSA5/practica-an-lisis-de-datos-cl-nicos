@@ -6,3 +6,6 @@ Versiones:
 - Pandas 2.2.3
 - Numpy 1.23.5
 - Matplotlib 3.10.1
+- imblearn 0.0
+- scipy 1.17.0
+- warnings (para wilcoxon)
