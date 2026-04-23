@@ -42,6 +42,11 @@
 # Gemini
 # es correcto este dataframe antes de pasar al EDA? {captura}
 # Para ver si era correcto lo q llevaba. Me dijo que por si acaso, para que entienda mejor el modelo, convierta las variables booleanas del one-hot encoding a int.
+#
+# 23/04/26-1
+# Gemini
+# puedo usar este modelo para mi dataset? {captura del notebook de clse de LinearRegression}
+# Validar si se podía usar lo mismo que vimos en clase, me ayudó a ajustar parámetros.
 
 
 
