@@ -57,10 +57,37 @@
 # DeepSeek
 # no me va pip install imblearn
 # Me ayudó a arreglar que al instalarme imblearn con pip seguía dando error dandome un ejecutable en una celda.
-
-
-
-
+#
+# 28/04/26-1
+# Gemini
+# ayudame a aplicar RFE y SelectKBest
+# Para aprender a usar los métodos de selección.
+#
+# 28/04/26-2
+# Gemini
+# para comparar los 5 modelos de ahora sirve el test de wilcoxon de antes?
+# Para no solo mirar la media del accuracy y demostrar que el Random Forest es mejor de verdad. Me ayudó a configurar el test con "alternative=greater" para probar que uno es superior al resto y no solo que son distintos.
+#
+# 28/04/26-3
+# Gemini
+# que variables son las mas importantes segun el modelo y que sentido tienen?
+# Usamos la importancia de variables del Random Forest para sacar el Top 10. Me ayudó a ver la lógica médica de por qué cosas como el número de ingresos previos o la edad son los mejores predictores.
+#
+# 28/04/26-4
+# Gemini
+# como aplico SHAP y LIME
+# Para aprender a usar estas librerías de explicabilidad.
+#
+#
+# 28/04/26-5
+# Gemini
+# me da este error en el shap {captura}
+# Debug de un error.
+#
+# 28/04/26-6
+# Gemini
+# como se lee un grafico de SHAP y para que sirve LIME?
+# Para la parte de explicabilidad. Me enseñó a usar SHAP para ver el modelo en general y LIME para elegir a un paciente concreto y ver qué variables han hecho que el modelo diga que se va a volver a ingresar.
 
 
 

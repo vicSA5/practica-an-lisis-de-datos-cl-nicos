@@ -9,3 +9,5 @@ Versiones:
 - imblearn 0.0
 - scipy 1.17.0
 - warnings (para wilcoxon)
+- SHAP 0.51.0
+- LIME 0.2.0.1
