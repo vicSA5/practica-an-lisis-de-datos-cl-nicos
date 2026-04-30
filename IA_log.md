@@ -84,15 +84,20 @@
 # me da este error en el shap {captura}
 # Debug de un error.
 #
-# 28/04/26-6
+# 30/04/26-1
 # Gemini
 # como se lee un grafico de SHAP y para que sirve LIME?
 # Para la parte de explicabilidad. Me enseñó a usar SHAP para ver el modelo en general y LIME para elegir a un paciente concreto y ver qué variables han hecho que el modelo diga que se va a volver a ingresar.
 #
-# 28/04/26-6
+# 30/04/26-2
 # Gemini
 # con esta documentacion del shap como arreglo el mío {documentación de la página de SHAP}
 # Me salía mal el gráfico y le pedí que me corrija el código según la documentación, ya que estaba actualizada y habían cambiado cosas.
+#
+# 30/04/26-3
+# Gemini
+# se aplican los mejores parámetros de esta manera si uso el RandomForestClassifier?
+# Comprobar si era correcta la modificación del código de las prácticas pero cambiando el modelo.
 
 
 
