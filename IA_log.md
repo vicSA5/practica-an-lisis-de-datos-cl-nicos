@@ -98,6 +98,26 @@
 # Gemini
 # se aplican los mejores parámetros de esta manera si uso el RandomForestClassifier?
 # Comprobar si era correcta la modificación del código de las prácticas pero cambiando el modelo.
+#
+# 03/05/26-1
+# Gemini
+# Dame otro modelo como el GridSearchCV y como usarlo.
+# Para buscar otro tipo de GridSearchCV y compararlo.
+#
+# 03/05/26-2
+# Gemini
+# que otro modelo puedo usar mejor que RandomForest
+# Para buscar otro modelo para el apartado avanzado, usé al final LGBMClassifier
+#
+# 03/05/26-3
+# ChatGPT
+# que modelo es mejor {captura de accuracies de RandomForesst con mejores hiperparámetros vs LGBMClassifier}
+# Necesitaba comparar los modelos ya que uno me daba una mejor precisión que el otro pero un precisión balanceada peor, opté al final por el LGBM.
+#
+# 03/05/26-4
+# Gemini
+# he notado q en los fallos de predicción siempre la variable q tira más a la erronea en el lime es number_inpatient == 0, como puedo comprobar q esto es verda ?¿
+# Al tener esta hipótesis, le pedí a la IA que me dijera como poder comprobarlo, me dió un código para comparar los fallos en las predicciones de pacientes con number_inpatient == 0 u otro. 
 
 
 
