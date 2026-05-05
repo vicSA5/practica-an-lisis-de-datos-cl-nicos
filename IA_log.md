@@ -120,20 +120,13 @@
 # Al tener esta hipótesis, le pedí a la IA que me dijera como poder comprobarlo, me dió un código para comparar los fallos en las predicciones de pacientes con number_inpatient == 0 u otro. 
 
 
-
-
 <!-- ALUCINACIONES -->
 # DURANTE 18/04/26-4
-❌ Posible error: orden de condiciones
-Tu orden actual:
+# Contexto: Validando un código para mapear las variables diag_n
+# Alucinación: Al comprobar el IF-ELIF-ELSE, encontró un error (inventado por el agente) para después autocorregirse: "Diabetes (250-251) ⬅️ ¡Esto nunca se ejecutará! Problema: 250 es menor que 390, pero 250 NO está en ningún rango anterior... ¡espera! Sí está. 250 es menor que 390, entonces ninguna condición anterior lo captura. Está bien, el orden no afecta a 250 porque ningún rango anterior lo incluye."
+# Solución: Comprobé que lo tenía bien e ignoré la advertencia.
 
-Circulatorio (390-459 o 785)
-
-Respiratorio (460-519 o 786)
-
-Digestivo (520-579 o 787)
-
-Diabetes (250-251) ⬅️ ¡Esto nunca se ejecutará!
-Problema: 250 es menor que 390, pero 250 NO está en ningún rango anterior... ¡espera! Sí está. 250 es menor que 390, entonces ninguna condición anterior lo captura. Está bien, el orden no afecta a 250 porque ningún rango anterior lo incluye.
-
-
+# DURANTE 28/04/26-5
+# Contexto: le pregunté a la IA que me ayudará a aplicar SHAP
+# Alucinación: me empezó a devolver códigos que daban errores o hacían gráficos que no tenían sentido
+# Solución: me tocó leer la documentación de SHAP y ví que en las últimas actualizaciones añadieron una dimensión más al vector shap_values, que el agente no tenía en cuenta.
